@@ -22,10 +22,11 @@ def foo():
         return
 ```
 
-Tutorial
+Tutorials
 =========
 
 http://forums.udacity.com/questions/100023989/python-101-unit-6-yet-another-attempt-to-explain-recursion
+http://www.python-course.eu/python3_recursive_functions.php
 
 
 Questions?
