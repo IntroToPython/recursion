@@ -3,6 +3,14 @@ recursion
 
 Recursion. Recursion is. Recursion is hard.
 
+Vocab
+========
+A 'base case': a case in which the problem is trivially solved
+that is reached when a certain condition is satisfied.
+
+A 'general case': all the other cases expressed as the solution of
+one or more smaller versions of itself.
+
 Code
 =========
 ```python
