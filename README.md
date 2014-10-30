@@ -7,11 +7,11 @@ Code
 =========
 ```python
 def foo():
-        if base_condition():
-            return
-        else:
-            foo()
-            return
+    if base_condition():
+        return
+    else:
+        foo()
+        return
 ```
 
 Tutorial
